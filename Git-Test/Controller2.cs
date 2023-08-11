@@ -2,7 +2,7 @@
 {
     public class Controller2
     {
-        public Controller2(String args)
+        public Controller2(String args, int number)
         {
             Console.WriteLine("Hello");
         }
