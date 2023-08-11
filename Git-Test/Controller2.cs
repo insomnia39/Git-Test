@@ -10,7 +10,7 @@ namespace Git_Test
     {
         public Controller2(String args)
         {
-            
+            Console.WriteLine("Hello");
         }
 
         public void ReadFromDB(int a, int b)
