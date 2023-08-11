@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Git_Test
+﻿namespace Git_Test
 {
     public class Controller2
     {
-        public Controller2(String args)
+        public Controller2(String args, int number)
         {
-            
+            Console.WriteLine("Hello");
         }
 
         public void ReadFromDB(int a, int b)
