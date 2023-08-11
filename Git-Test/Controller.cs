@@ -4,7 +4,7 @@
     {
         public Controller(String args, int number)
         {
-
+            Console.WriteLine("Hello World");
         }
 
         public void AddToDatabase(int a, int b)
