@@ -11,5 +11,10 @@
         {
             return n1 - n2;
         }
+
+        public static double Multiply(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
