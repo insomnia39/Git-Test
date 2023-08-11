@@ -2,7 +2,7 @@
 {
     public class Controller
     {
-        public Controller(String args)
+        public Controller(String args, int number)
         {
 
         }
